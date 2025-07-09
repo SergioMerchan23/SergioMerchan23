@@ -14,7 +14,8 @@ I enjoy creating machine learning models that can predict optimal conditions for
 ## 🛠 Skills
 Python, SQL
 
-## Librerias
+## Libraries & Tools
+
 
 Pandas, scikit-learn, matplotlib, seaborn, TensorFlow
 <!--
