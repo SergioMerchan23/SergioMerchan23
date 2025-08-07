@@ -10,7 +10,8 @@ Me gusta crear modelos de machine learning que permmitan predecir condiciones op
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-andres-merchan-monroy-b24986144/)
 
 ## 🛠 Lenguajes
-Python, SQL
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+, SQL
 
 ## 🛠 Librerias y Herramientas
 Pandas, scikit-learn, matplotlib, seaborn, TensorFlow
